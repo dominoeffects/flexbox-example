@@ -1,0 +1,32 @@
+.flexbox{
+    display: flex;
+}
+
+.block1{
+    border: 1px solid black;
+    height: 600px;
+    align-items: flex-end;
+}
+
+.box{
+    height: 300px;
+    margin: 10px;
+    background-color: #eee;
+    font-size: 100px;
+}
+
+.width300{
+    width: 300px;
+}
+
+.width500{
+    width: 500px;
+}
+
+.just-center{
+    justify-content: center;
+}
+
+.align-items-center{
+    align-items: center;
+}
