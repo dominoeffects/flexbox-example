@@ -4,10 +4,17 @@
 
 .block1{
     border: 1px solid black;
-    height: 600px;
+    height: 600px;    
     align-items: flex-end;
     flex-direction: column;
 }
+
+.block2{
+    border: 1px solid black;
+    height: 600px;    
+    align-items: flex-end;
+}
+
 
 .box{
     height: 300px;
@@ -33,5 +40,8 @@
 }
 
 .box2{
+   /* block 1 */
+    /* align-self: flex-start; */
+    /* block 2 */
     align-self: flex-start;
 }
