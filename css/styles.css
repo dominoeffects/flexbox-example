@@ -21,7 +21,7 @@
 }
 
 .box{
-    height: 150px;
+    height: 125px;
     margin: 10px;
     background-color: #eee;
     font-size: 100px;
@@ -59,7 +59,7 @@
     flex-flow: wrap;
 }
 
-.align-self-start:{
+.align-self-start{
     align-self: flex-start;
 }
 
